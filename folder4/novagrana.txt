@@ -1,1 +1,3 @@
 probacu pulovanje bez merdzovanja ove grane
+nije moguce, a sad 
+ovaj fajl editujem i menjam na HUBu, pa cu da ga pullujem.
