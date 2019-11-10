@@ -2,3 +2,4 @@ Kreiranje txt fajla sa nano-om
 ctrl+x
 y
 enter
+Mala promena sa drugog racunara
